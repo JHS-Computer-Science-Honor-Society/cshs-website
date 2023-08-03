@@ -9,7 +9,7 @@ You will need:
 
 ## Set up
 
-Open Terminal/CMD and run the following line of code:
+Open Terminal/CMD in your desired folder and run the following line of code:
 
 ```
 git clone https://github.com/JHS-Computer-Science-Honor-Society/cshs-website.git
