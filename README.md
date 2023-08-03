@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# Henry M. Jackson Computer Science Honor Society
+
+Write stuff here. Will do it later
