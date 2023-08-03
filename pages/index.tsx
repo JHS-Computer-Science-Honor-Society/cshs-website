@@ -1,5 +1,11 @@
+import { Container } from "@chakra-ui/react";
+
 function Page() {
-  return <div>Hello World</div>;
+  return (
+    <Container>
+      <div>Hello World</div>
+    </Container>
+  );
 }
 
 export default Page;
