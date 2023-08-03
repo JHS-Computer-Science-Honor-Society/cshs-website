@@ -1,5 +1,5 @@
-function App() {
+function Page() {
   return <div>Hello World</div>;
 }
 
-export default App;
+export default Page;
