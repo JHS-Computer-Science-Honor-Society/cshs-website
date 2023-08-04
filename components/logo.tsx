@@ -18,7 +18,7 @@ const LogoBox = styled.span`
 `;
 
 function Logo() {
-  const cshsLogoPath = "/images/cshs_logo.png";
+  const cshsLogoPath = `/images/cshs_logo${useColorModeValue("", "-dark")}.png`;
 
   return (
     <Link href="/" legacyBehavior>
