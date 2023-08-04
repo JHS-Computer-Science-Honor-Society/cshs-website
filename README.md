@@ -1,13 +1,15 @@
 # Henry M. Jackson Computer Science Honor Society
 
-## Prerequisites
+## Set Up
+
+### Prerequisites
 
 You will need:
 
 - [Node](https://nodejs.org/en)
 - [Visual Studio Code](https://code.visualstudio.com)
 
-## Set up
+### Set up
 
 Open Terminal/CMD in your desired folder and run the following line of code:
 
