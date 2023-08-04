@@ -18,13 +18,13 @@ const LogoBox = styled.span`
 `;
 
 function Logo() {
-  const coffeeImg = "/images/cshs_logo.png";
+  const cshsLogoPath = "/images/cshs_logo.png";
 
   return (
     <Link href="/" legacyBehavior>
       <a>
         <LogoBox>
-          <Image src={coffeeImg} width={20} height={20} alt="logo" />
+          <Image src={cshsLogoPath} width={20} height={20} alt="logo" />
           <Text
             color={useColorModeValue("gray.800", "whiteAlpha.900")}
             fontFamily="M PLUS Rounded 1c"
